@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="">Sobre o desafio<a/> |
-  <a href="">Objetivos a realizar<a/> |
-  <a href="">Específicação dos testes<a/> |
-  <a href="">LICENÇA<a/>
+  <a href="https://github.com/gabriel-antero/challenge09-Database-relations#information_source-sobre-o-desafio">Sobre o desafio<a/> |
+  <a href="https://github.com/gabriel-antero/challenge09-Database-relations#dart-objetivos-realizados">Objetivos a realizar<a/> |
+  <a href="https://github.com/gabriel-antero/challenge09-Database-relations#espec%C3%ADfica%C3%A7%C3%A3o-dos-testes">Específicação dos testes<a/> |
+  <a href="https://github.com/gabriel-antero/challenge09-Database-relations#memo-licen%C3%A7a">LICENÇA<a/>
 </p>
 
 ## :information_source: Sobre o desafio
@@ -133,7 +133,7 @@ Essa será uma aplicação que deve permitir a criação de clientes, produtos e
 
 ## :memo: LICENÇA
 
-Projeto sobre licença MIT. Mais informações em [LICENÇA]().
+Projeto sobre licença MIT. Mais informações em [LICENÇA](https://github.com/gabriel-antero/challenge09-Database-relations/blob/master/LICENSE).
 
 ---
 
